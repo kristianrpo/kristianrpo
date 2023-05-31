@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**kristianrpo/kristianrpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Kristian 👋
+## 🤠 About Me:
+- I'm currently studying Computer Science at **EAFIT**.
+- I'm an assistant professor of Computational Thinking at **EAFIT**.
+- I'm a Systems Technician, I graduated from **SENA**.
+- I completed and passed the 'Fundamentals of Programming' course from **MINTIC 2022**, operated by the **Technological University of Pereira**.
+## 💻 Code Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianrpo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🕹 Github Stats:
+![kristianrpo GitHub stats](https://github-readme-stats.vercel.app/api?username=kristianrpo&show_icons=true&theme=dark)
