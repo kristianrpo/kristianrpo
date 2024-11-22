@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align = "center"><img src = "https://i.imgur.com/WshELl3.png" width = "300px"/></p>
-<p align = "center">Passionate about software development, with a special interest in building efficient and user-focused web applications.</p>
+<p align = "center">Passionate about software development, with a special interest in building efficient, maintainable and user-focused web applications.</p>
 
 ## 🤠 About Me:
 - 🎓 I am currently studying Systems Engineering at EAFIT University, where I have developed a solid foundation in programming and technology. Since my early days as a systems technician, I have always enjoyed learning something new every day.
