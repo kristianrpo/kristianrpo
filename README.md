@@ -34,13 +34,16 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=kristianrpo&theme=dark&show_icons=true&count_private=true" />
         <br></br>
         <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kristianrpo&theme=dark&hide_border=false" /> 
+        <br></br>
+        <div align="center">
+          <img align="center" src="https://github-profile-trophy.vercel.app/?username=kristianrpo&rank=S,AAA,AA,A,B&row=2&column=3&theme=kimbie_dark"/>
+        </div> 
       </td>
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kristianrpo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
       </td>
     </tr>
   </table>
-</p>
-
+</p> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
