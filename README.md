@@ -7,7 +7,7 @@
 
 - 🧑‍🏫 I have been a leader of a student group at the university, successfully managing its financial aspects. Additionally, I have worked as an academic monitor in subjects like “Computational Thinking” helping other students develop their skills.
 
-- 🌐 I actively participate in volunteer work at the CTI in Sabaneta, where I guide high school students in exploring the world of technology. I also enjoy taking part in tech-related events to learn and contribute to the community.
+- 🌐 I actively participate in volunteer work at the CTI in Sabaneta, where I guide high school students in exploring the world of technology and build IoT devices. I also enjoy taking part in tech-related events to learn and contribute to the community.
 
 - 👨‍💻 I have worked as a software developer, both independently and as part of companies, which has allowed me to strengthen my technical skills and adapt to diverse projects.
 
@@ -22,7 +22,7 @@
 ## 🤓 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,js,php,html,css,django,laravel,nextjs,fastapi,postgresql,mysql,java,arduino,cpp,github,azure,gcp,docker,tailwind" />
+    <img src="https://skillicons.dev/icons?i=python,js,php,html,css,java,arduino,cpp,django,laravel,nextjs,expressjs,fastapi,tailwind,postgresql,mysql,redis,github,git,azure,gcp,aws,docker" />
   </a>
 </p>
 
