@@ -22,7 +22,7 @@
 ## 🤓 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,php,html,css,java,arduino,cpp,django,laravel,nextjs,expressjs,fastapi,tailwind,postgresql,mysql,redis,github,git,azure,gcp,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css,java,arduino,cpp,django,laravel,nextjs,expressjs,fastapi,tailwind,postgresql,mysql,redis,github,git,azure,gcp,aws,docker" />
   </a>
 </p>
 
