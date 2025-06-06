@@ -36,7 +36,7 @@
         <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kristianrpo&theme=dark&hide_border=false" /> 
         <br></br>
         <div align="center">
-          <img align="center" src="https://github-profile-trophy.vercel.app/?username=kristianrpo&rank=S,AAA,AA,A,B&row=2&column=3&theme=kimbie_dark"/>
+          <img align="center" src="https://github-profile-trophy.vercel.app/?username=kristianrpo&rank=S,AAA,AA,A&row=3&column=3&theme=kimbie_dark"/>
         </div> 
       </td>
       <td width="50%" align="center">
