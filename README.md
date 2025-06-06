@@ -3,7 +3,7 @@
 <p align = "center">Passionate about software development, with a special interest in building efficient, maintainable and user-focused web applications.</p>
 
 ## 🤠 About Me:
-- 🎓 I am currently studying Systems Engineering at EAFIT University, where I have developed a solid foundation in programming and technology. Since my early days as a systems technician, I have always enjoyed learning something new every day.
+- 🎓 I am currently studying Computer Science at EAFIT University, where I have developed a solid foundation in programming and technology. Since my early days as a systems technician, I have always enjoyed learning something new every day.
 
 - 🧑‍🏫 I have been a leader of a student group at the university, successfully managing its financial aspects. Additionally, I have worked as an academic monitor in subjects like “Computational Thinking” helping other students develop their skills.
 
